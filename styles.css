@@ -1,0 +1,23 @@
+*
+{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration:none;
+ list-style:none;
+ font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+body
+{
+    background:white
+}
+.container
+{
+    display: flex
+}
+img
+{
+    display:inline-block;
+    width: 10%;
+}
